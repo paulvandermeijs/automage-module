@@ -1,0 +1,15 @@
+[[var]]
+identifier = "vendor"
+message = "What is your vendor name?"
+help_message = "A Magento module's vendor is the entity owning and maintaining the module, typically identified in the module's directory structure."
+
+[[var]]
+identifier = "name"
+message = "What is your module name?"
+help_message = "A Magento module's name is the unique identifier for the module."
+
+[[var]]
+identifier = "version"
+message = "What is the version number for the module?"
+placeholder = "Provide a semver compatible version number"
+initial_value = "1.0.0"
